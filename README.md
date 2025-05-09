@@ -12,7 +12,8 @@ The report provides an in-depth analysis of the structured products market in Fr
 - Quantitative pricing methods: Monte Carlo simulation, Black-Scholes PDEs, and the Heston model
 - Hedging strategies and the impact of regulations on pricing and product design
 
-📄 [Read the full thesis PDF](report/Structured_Products_in_France.pdf)
+📄 [Read the full thesis PDF](report/Structured_Products_in_France_Report.pdf)
+
 
 ## 🧠 Code Purpose
 
